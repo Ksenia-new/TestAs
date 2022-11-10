@@ -1,5 +1,5 @@
 def bracketFunction():
-    brackets= input('Введите скобочную последовательность:')
+    brackets= input('Введите скобочную последовательность: ')
     stack = []
     is_good = True
 
